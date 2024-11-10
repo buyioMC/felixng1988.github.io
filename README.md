@@ -17,5 +17,13 @@
 ---
 
 广告 [我想要移除广告](./remove_ads)
+
 ![GNU/Linux 清洁喷雾](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/55096b7b93f7f69ada2e4f74441fd644986383e447094f6f8cf38f2f13bef29165f52d3015d6e73d0d660cff0feba2a5?pictype=scale&from=30111&version=3.3.3.3&fname=1.%20GNULinux%20%E6%B8%85%E6%B4%81%E5%96%B7%E9%9B%BE.jpg&size=1024)
+
 GNU/Linux 清洁喷雾：专为解放你的电脑而生！强效配方，轻松清除电脑中的 Windows 痕迹，让你的电脑瞬间告别臃肿、卡顿和病毒的困扰。只需轻轻一喷，Windows 无影无踪，全面提升系统性能和安全性。畅享开源的自由、稳定与快速，再也不用担心恶意软件和频繁重启！这款革命性的喷雾，让你的电脑焕然一新，随时随地体验开源世界的无限可能！赶快[点击这里](./shop-gnu_linux_wipeout_spray)购买吧！
+
+---
+
+我的狗狗币（Dogecoin）钱包地址：
+DURkJ9Fw5cwE7Qgb4CA1URHH7t7nnh45WR
+(放出这玩意儿只是为了方便我在不同设备间挖矿，一般人可以忽略这个东西)
